@@ -2,13 +2,12 @@ title:              Coffee Notes
 email:              kzabelova@gmail.com
 description:        Notes and sketches in computer scinces
 author:             Kate from IT
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://tobichimaru.github.io/coffee-notes/"
+# baseurl:            "/startbootstrap-clean-blog-jekyll"
+# url:                "https://tobichimaru.github.io/coffee-notes/"
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
-twitter_username:   
 github_username:    tobichimaru
-facebook_username:  
 instagram_username:  kateonduty
 linkedin_username: kate-zabelova
 
