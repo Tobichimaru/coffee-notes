@@ -3,7 +3,7 @@ email:              kzabelova@gmail.com
 description:        Notes and sketches in computer scinces
 author:             Kate from IT
 # baseurl:            "/startbootstrap-clean-blog-jekyll"
-# url:                "https://tobichimaru.github.io/coffee-notes/"
+url:                "https://tobichimaru.github.io/coffee-notes/"
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
